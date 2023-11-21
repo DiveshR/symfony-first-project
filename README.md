@@ -26,4 +26,5 @@ NOTE: First Need to install maker to create controller
 `symfony console make:controller MoviesController`
 
 * list symfony commands
+
 `symfony console`
