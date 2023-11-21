@@ -28,3 +28,7 @@ NOTE: First Need to install maker to create controller
 * list symfony commands
 
 `symfony console`
+
+* Route: Commands to show all routes
+
+`symfony console debug:router`
