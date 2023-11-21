@@ -18,9 +18,11 @@
 `composer require annotations`
 
 * Create first Controller
+
 NOTE: First Need to install maker to create controller
 
 `composer require maker`
+
 `symfony console make:controller MoviesController`
 
 * list symfony commands
